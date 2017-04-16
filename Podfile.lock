@@ -1,0 +1,29 @@
+PODS:
+  - FSCalendar (2.7.0)
+  - GoogleMaps (2.1.1):
+    - GoogleMaps/Maps (= 2.1.1)
+  - GoogleMaps/Base (2.1.1)
+  - GoogleMaps/Maps (2.1.1):
+    - GoogleMaps/Base
+  - GooglePlaces (2.1.1):
+    - GoogleMaps/Base (= 2.1.1)
+  - HGCircularSlider (1.0.3)
+  - SwiftyPickerPopover (2.4.1)
+
+DEPENDENCIES:
+  - FSCalendar
+  - GoogleMaps
+  - GooglePlaces
+  - HGCircularSlider (~> 1.0.3)
+  - SwiftyPickerPopover
+
+SPEC CHECKSUMS:
+  FSCalendar: 4957703ebd99b4fd0bfd46bf3e3c6465c0a25482
+  GoogleMaps: a5b5bbe47734e2443bde781a6aa64e69fdb6d785
+  GooglePlaces: 35636d86e5020cba3856eb988c09a5491de0a65a
+  HGCircularSlider: f3a941d52bae7833b7213b8d89c6264c5506d9ad
+  SwiftyPickerPopover: fe139ca1bf1757393e3055b97af3ab659b7a4246
+
+PODFILE CHECKSUM: 2f07e09cc1c5494ca119eae4c075c97e5b1351c8
+
+COCOAPODS: 1.1.1

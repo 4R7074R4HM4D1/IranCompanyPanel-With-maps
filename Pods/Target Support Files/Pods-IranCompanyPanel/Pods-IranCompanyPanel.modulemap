@@ -1,0 +1,6 @@
+framework module Pods_IranCompanyPanel {
+  umbrella header "Pods-IranCompanyPanel-umbrella.h"
+
+  export *
+  module * { export * }
+}

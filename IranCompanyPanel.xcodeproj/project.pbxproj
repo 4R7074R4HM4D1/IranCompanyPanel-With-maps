@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		45826BDF1E5C0FD80002EC8D /* SettimeAndDate1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45826BDE1E5C0FD80002EC8D /* SettimeAndDate1.swift */; };
+		45BAA8E81E597B740036ECCE /* CustomTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45BAA8E71E597B740036ECCE /* CustomTabBar.swift */; };
+		45BAA8F01E5A13220036ECCE /* bckg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 45BAA8EF1E5A13220036ECCE /* bckg.jpg */; };
+		45C23E071E583224006F0F31 /* ReportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45C23E061E583224006F0F31 /* ReportsViewController.swift */; };
+		45C23E081E583224006F0F31 /* ReportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45C23E061E583224006F0F31 /* ReportsViewController.swift */; };
+		45C23E091E583224006F0F31 /* ReportsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45C23E061E583224006F0F31 /* ReportsViewController.swift */; };
+		45C4D2D91E5E34DD00DD7624 /* dark.json in Resources */ = {isa = PBXBuildFile; fileRef = 45C4D2D81E5E34DD00DD7624 /* dark.json */; };
+		45C8D0921E73D003006E306F /* DIYCalendarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45C8D0911E73D003006E306F /* DIYCalendarCell.swift */; };
+		45C8D0941E754B80006E306F /* SettimeAndDate2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45C8D0931E754B80006E306F /* SettimeAndDate2.swift */; };
 		45DE38A01E56DDC500026DB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45DE389F1E56DDC500026DB4 /* AppDelegate.swift */; };
 		45DE38A21E56DDC500026DB4 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45DE38A11E56DDC500026DB4 /* FirstViewController.swift */; };
 		45DE38A41E56DDC500026DB4 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45DE38A31E56DDC500026DB4 /* SecondViewController.swift */; };
@@ -15,6 +24,7 @@
 		45DE38AC1E56DDC500026DB4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45DE38AA1E56DDC500026DB4 /* LaunchScreen.storyboard */; };
 		45DE38B71E56DDC500026DB4 /* IranCompanyPanelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45DE38B61E56DDC500026DB4 /* IranCompanyPanelTests.swift */; };
 		45DE38C21E56DDC500026DB4 /* IranCompanyPanelUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45DE38C11E56DDC500026DB4 /* IranCompanyPanelUITests.swift */; };
+		5017683CF103838DD63F61EF /* Pods_IranCompanyPanel.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B0DF411F45174EC285E183D /* Pods_IranCompanyPanel.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +45,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		45826BDE1E5C0FD80002EC8D /* SettimeAndDate1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettimeAndDate1.swift; sourceTree = "<group>"; };
+		45AE3FC299D8C89862C4CE87 /* Pods-IranCompanyPanel.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IranCompanyPanel.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IranCompanyPanel/Pods-IranCompanyPanel.debug.xcconfig"; sourceTree = "<group>"; };
+		45BAA8E71E597B740036ECCE /* CustomTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTabBar.swift; sourceTree = "<group>"; };
+		45BAA8EF1E5A13220036ECCE /* bckg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bckg.jpg; sourceTree = "<group>"; };
+		45C23E061E583224006F0F31 /* ReportsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ReportsViewController.swift; path = ../ReportsViewController.swift; sourceTree = "<group>"; };
+		45C4D2D81E5E34DD00DD7624 /* dark.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = dark.json; sourceTree = "<group>"; };
+		45C8D0911E73D003006E306F /* DIYCalendarCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DIYCalendarCell.swift; sourceTree = "<group>"; };
+		45C8D0931E754B80006E306F /* SettimeAndDate2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettimeAndDate2.swift; sourceTree = "<group>"; };
 		45DE389C1E56DDC500026DB4 /* IranCompanyPanel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IranCompanyPanel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45DE389F1E56DDC500026DB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45DE38A11E56DDC500026DB4 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +67,8 @@
 		45DE38BD1E56DDC500026DB4 /* IranCompanyPanelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IranCompanyPanelUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		45DE38C11E56DDC500026DB4 /* IranCompanyPanelUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IranCompanyPanelUITests.swift; sourceTree = "<group>"; };
 		45DE38C31E56DDC500026DB4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5B0DF411F45174EC285E183D /* Pods_IranCompanyPanel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_IranCompanyPanel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B77664FEFBAF79D3A5B4C7E0 /* Pods-IranCompanyPanel.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IranCompanyPanel.release.xcconfig"; path = "Pods/Target Support Files/Pods-IranCompanyPanel/Pods-IranCompanyPanel.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5017683CF103838DD63F61EF /* Pods_IranCompanyPanel.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,13 +97,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F33C38D70A5556DA0F13BB0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				45AE3FC299D8C89862C4CE87 /* Pods-IranCompanyPanel.debug.xcconfig */,
+				B77664FEFBAF79D3A5B4C7E0 /* Pods-IranCompanyPanel.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		45DE38931E56DDC500026DB4 = {
 			isa = PBXGroup;
 			children = (
+				45DE38D71E56E2DA00026DB4 /* Icons */,
 				45DE389E1E56DDC500026DB4 /* IranCompanyPanel */,
 				45DE38B51E56DDC500026DB4 /* IranCompanyPanelTests */,
 				45DE38C01E56DDC500026DB4 /* IranCompanyPanelUITests */,
 				45DE389D1E56DDC500026DB4 /* Products */,
+				1F33C38D70A5556DA0F13BB0 /* Pods */,
+				9AFAAA556661C11910B47693 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,13 +132,20 @@
 		45DE389E1E56DDC500026DB4 /* IranCompanyPanel */ = {
 			isa = PBXGroup;
 			children = (
+				45C4D2D81E5E34DD00DD7624 /* dark.json */,
+				45C23E061E583224006F0F31 /* ReportsViewController.swift */,
 				45DE389F1E56DDC500026DB4 /* AppDelegate.swift */,
+				45BAA8EF1E5A13220036ECCE /* bckg.jpg */,
 				45DE38A11E56DDC500026DB4 /* FirstViewController.swift */,
 				45DE38A31E56DDC500026DB4 /* SecondViewController.swift */,
 				45DE38A51E56DDC500026DB4 /* Main.storyboard */,
 				45DE38A81E56DDC500026DB4 /* Assets.xcassets */,
 				45DE38AA1E56DDC500026DB4 /* LaunchScreen.storyboard */,
 				45DE38AD1E56DDC500026DB4 /* Info.plist */,
+				45BAA8E71E597B740036ECCE /* CustomTabBar.swift */,
+				45826BDE1E5C0FD80002EC8D /* SettimeAndDate1.swift */,
+				45C8D0911E73D003006E306F /* DIYCalendarCell.swift */,
+				45C8D0931E754B80006E306F /* SettimeAndDate2.swift */,
 			);
 			path = IranCompanyPanel;
 			sourceTree = "<group>";
@@ -128,6 +168,21 @@
 			path = IranCompanyPanelUITests;
 			sourceTree = "<group>";
 		};
+		45DE38D71E56E2DA00026DB4 /* Icons */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Icons;
+			sourceTree = "<group>";
+		};
+		9AFAAA556661C11910B47693 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5B0DF411F45174EC285E183D /* Pods_IranCompanyPanel.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -135,9 +190,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 45DE38C61E56DDC500026DB4 /* Build configuration list for PBXNativeTarget "IranCompanyPanel" */;
 			buildPhases = (
+				876A2915BACF16441402F07D /* [CP] Check Pods Manifest.lock */,
 				45DE38981E56DDC500026DB4 /* Sources */,
 				45DE38991E56DDC500026DB4 /* Frameworks */,
 				45DE389A1E56DDC500026DB4 /* Resources */,
+				7FF94E73FFD5205EC0B0A93B /* [CP] Embed Pods Frameworks */,
+				CD090922DAE263DBC5153DE9 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -240,6 +298,8 @@
 			files = (
 				45DE38AC1E56DDC500026DB4 /* LaunchScreen.storyboard in Resources */,
 				45DE38A91E56DDC500026DB4 /* Assets.xcassets in Resources */,
+				45BAA8F01E5A13220036ECCE /* bckg.jpg in Resources */,
+				45C4D2D91E5E34DD00DD7624 /* dark.json in Resources */,
 				45DE38A71E56DDC500026DB4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,14 +320,67 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		7FF94E73FFD5205EC0B0A93B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-IranCompanyPanel/Pods-IranCompanyPanel-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		876A2915BACF16441402F07D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		CD090922DAE263DBC5153DE9 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-IranCompanyPanel/Pods-IranCompanyPanel-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		45DE38981E56DDC500026DB4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45C23E071E583224006F0F31 /* ReportsViewController.swift in Sources */,
+				45BAA8E81E597B740036ECCE /* CustomTabBar.swift in Sources */,
 				45DE38A41E56DDC500026DB4 /* SecondViewController.swift in Sources */,
 				45DE38A01E56DDC500026DB4 /* AppDelegate.swift in Sources */,
 				45DE38A21E56DDC500026DB4 /* FirstViewController.swift in Sources */,
+				45C8D0921E73D003006E306F /* DIYCalendarCell.swift in Sources */,
+				45C8D0941E754B80006E306F /* SettimeAndDate2.swift in Sources */,
+				45826BDF1E5C0FD80002EC8D /* SettimeAndDate1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +388,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45C23E081E583224006F0F31 /* ReportsViewController.swift in Sources */,
 				45DE38B71E56DDC500026DB4 /* IranCompanyPanelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -283,6 +397,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45C23E091E583224006F0F31 /* ReportsViewController.swift in Sources */,
 				45DE38C21E56DDC500026DB4 /* IranCompanyPanelUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -415,6 +530,7 @@
 		};
 		45DE38C71E56DDC500026DB4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 45AE3FC299D8C89862C4CE87 /* Pods-IranCompanyPanel.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 657CJV6R3C;
@@ -423,11 +539,13 @@
 				PRODUCT_BUNDLE_IDENTIFIER = aryo.IranCompanyPanel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
 		45DE38C81E56DDC500026DB4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B77664FEFBAF79D3A5B4C7E0 /* Pods-IranCompanyPanel.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 657CJV6R3C;
@@ -436,6 +554,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = aryo.IranCompanyPanel;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -516,6 +635,7 @@
 				45DE38C81E56DDC500026DB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		45DE38C91E56DDC500026DB4 /* Build configuration list for PBXNativeTarget "IranCompanyPanelTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +644,7 @@
 				45DE38CB1E56DDC500026DB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		45DE38CC1E56DDC500026DB4 /* Build configuration list for PBXNativeTarget "IranCompanyPanelUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +653,7 @@
 				45DE38CE1E56DDC500026DB4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

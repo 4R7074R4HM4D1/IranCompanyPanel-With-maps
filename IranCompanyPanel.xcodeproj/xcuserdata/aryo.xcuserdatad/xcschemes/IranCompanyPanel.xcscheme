@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "45DE389B1E56DDC500026DB4"
+               BuildableName = "IranCompanyPanel.app"
+               BlueprintName = "IranCompanyPanel"
+               ReferencedContainer = "container:IranCompanyPanel.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "45DE38B11E56DDC500026DB4"
+               BuildableName = "IranCompanyPanelTests.xctest"
+               BlueprintName = "IranCompanyPanelTests"
+               ReferencedContainer = "container:IranCompanyPanel.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "45DE38BC1E56DDC500026DB4"
+               BuildableName = "IranCompanyPanelUITests.xctest"
+               BlueprintName = "IranCompanyPanelUITests"
+               ReferencedContainer = "container:IranCompanyPanel.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45DE389B1E56DDC500026DB4"
+            BuildableName = "IranCompanyPanel.app"
+            BlueprintName = "IranCompanyPanel"
+            ReferencedContainer = "container:IranCompanyPanel.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45DE389B1E56DDC500026DB4"
+            BuildableName = "IranCompanyPanel.app"
+            BlueprintName = "IranCompanyPanel"
+            ReferencedContainer = "container:IranCompanyPanel.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "45DE389B1E56DDC500026DB4"
+            BuildableName = "IranCompanyPanel.app"
+            BlueprintName = "IranCompanyPanel"
+            ReferencedContainer = "container:IranCompanyPanel.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
